@@ -48,7 +48,7 @@ a {
   border-radius: 10px;
   box-shadow: 0px 0px 20px rgba(87, 95, 125, .25);
   margin: 10px;
-
+  width: auto;
 }
 
 .list-links a {
