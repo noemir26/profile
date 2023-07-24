@@ -63,12 +63,12 @@ a {
 .list-inline {
   list-style: none;
   padding-left: 0px;
+  width: auto;
 }
 
 .list-inline > li {
   display: inline-block;
   padding: 0px 18px;
-  width: auto;
 }
 
 .btn-blue {
