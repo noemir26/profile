@@ -63,7 +63,6 @@ a {
 .list-inline {
   list-style: none;
   padding-left: 0px;
-  width: auto;
 }
 
 .list-inline > li {
@@ -77,7 +76,7 @@ a {
   color: white;
   border-radius: 20px;
   text-decoration: none;
-  width: auto;
+  text-size-adjust: auto;
 }
 
 .btn-blue:hover {
